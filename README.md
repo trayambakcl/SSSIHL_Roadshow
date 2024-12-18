@@ -1,4 +1,4 @@
-<img width="553" alt="i20 placementimage" src="https://github.com/user-attachments/assets/1d16f472-fd88-405b-ba63-31dc126c0d77" />
+
 # SSIHL ROADSHOW
 ***Repository on RISC-V and VLSI Chip Design Roadshow at SSSIHL***
 ***
@@ -95,8 +95,13 @@
 <img width="671" alt="i24 routingimage" src="https://github.com/user-attachments/assets/96353bab-aecf-4979-a104-245b9cf0c2ef" />
 
 ***
-``` NOW WE CODED THE CHIP ```
-# BLINK CODE
+``` NOW WE PROGRAMMED THE BOARD ```
+# BLINK  VIDEO
+
+
+https://github.com/user-attachments/assets/cbc69537-5723-40bd-abf3-b93868268787
+
+
 
 # FADE VIDEO
 
@@ -105,7 +110,7 @@
 
 https://github.com/user-attachments/assets/9543f3b3-2cf9-4e15-94b3-43106be175e6
 
-
+# BLINK CODE
 
 ``` #include <ch32v00x.h>
 #include <debug.h>
